@@ -1,4 +1,3 @@
-//Only works in Debug Mode in Codepen
 
 $(document).ready(function() {
   $("*").dblclick(function(e) {
